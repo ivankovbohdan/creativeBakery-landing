@@ -15,7 +15,7 @@ The site provides an easy-to-navigate interface, ensuring a seamless experience 
 - SEO Best Practices
 
 ## Links
-- [MOCKUP LINK](https://github.com/ivankovbohdan/creativeBakery-landing)
+- [MOCKUP LINK](https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=0-1)
 - [DEMO LINK](https://ivankovbohdan.github.io/creativeBakery-landing)
 
 ## Launch Instructions
