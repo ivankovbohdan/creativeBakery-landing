@@ -19,5 +19,7 @@ The site provides an easy-to-navigate interface, ensuring a seamless experience 
 - [DEMO LINK](https://ivankovbohdan.github.io/creativeBakery-landing)
 
 ## Launch Instructions
-1. `npm i`
-2. `npm start`
+1. `git clone https://github.com/ivankovbohdan/creativeBakery-landing.git`
+2. Ensure Node.js version 20 is installed: `node -v`
+3. `npm i`
+4. `npm start`
